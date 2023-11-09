@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 Please make sure you are connected to the internet.
 Download the Zip and Extract the Zip file.
-Run this command 
+Run this command. 
 
 ### `npm install`
 
